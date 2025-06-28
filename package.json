@@ -1,0 +1,13 @@
+{
+  "name": "my-node-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
+
+
